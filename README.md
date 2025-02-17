@@ -23,8 +23,8 @@
 
 ### 📩 Contact 📩
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white:rjsgy033@gmail.com
-</div>
+<a href="rjsgy033@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <!--
 **kimkeonhyo/kimkeonhyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
